@@ -2,7 +2,7 @@ import PyPDF2
 import os
 import sys
 
-os.chdir("images")
+os.chdir("PDFs")
 
 name = input("File name of merged PDF: ") + ".pdf"
 
